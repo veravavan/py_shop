@@ -1,0 +1,6 @@
+apple; 15
+bread; 14
+beans; 25
+milk; 12
+pasta; 31
+water; 6

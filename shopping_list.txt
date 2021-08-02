@@ -1,0 +1,4 @@
+apple; 15; 2
+bread; 14; 1
+milk; 12; 10
+pasta; 31; 34
